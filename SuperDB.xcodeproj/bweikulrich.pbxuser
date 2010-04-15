@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SuperDBAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 933}}";
+			sepNavSelRange = "{854, 0}";
+			sepNavVisRange = "{0, 977}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SuperDBAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2696, 2660}}";
+			sepNavSelRange = "{4613, 0}";
+			sepNavVisRange = "{3006, 1632}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SuperDB */ = {
+		activeExec = 0;
+		executables = (
+			41DCE4DF1177C35E00A4013A /* SuperDB */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 41DCE4DF1177C35E00A4013A /* SuperDB */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SuperDB */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SuperDB */,
+		);
+		codeSenseManager = 41DCE4EC1177C37D00A4013A /* Code sense */;
+		executables = (
+			41DCE4DF1177C35E00A4013A /* SuperDB */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					739,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 293061470;
+			PBXWorkspaceStateSaveDate = 293061470;
+		};
+		perUserProjectItems = {
+			41DCE4F61177C6CA00A4013A /* PBXTextBookmark */ = 41DCE4F61177C6CA00A4013A /* PBXTextBookmark */;
+			41DCE4F71177C6CA00A4013A /* PBXTextBookmark */ = 41DCE4F71177C6CA00A4013A /* PBXTextBookmark */;
+			41DCE4F81177C6CA00A4013A /* PBXTextBookmark */ = 41DCE4F81177C6CA00A4013A /* PBXTextBookmark */;
+			41DCE4F91177C6CA00A4013A /* PBXTextBookmark */ = 41DCE4F91177C6CA00A4013A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 41DCE4EB1177C37D00A4013A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	41DCE4DF1177C35E00A4013A /* SuperDB */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SuperDB;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	41DCE4EB1177C37D00A4013A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	41DCE4EC1177C37D00A4013A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	41DCE4EF1177C6AD00A4013A /* HeroListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 933}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 241}";
+		};
+	};
+	41DCE4F61177C6CA00A4013A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SuperDBAppDelegate.h */;
+		name = "SuperDBAppDelegate.h: 27";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 977;
+		vrLoc = 0;
+	};
+	41DCE4F71177C6CA00A4013A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SuperDBAppDelegate.m */;
+		name = "SuperDBAppDelegate.m: 140";
+		rLen = 0;
+		rLoc = 4613;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 3006;
+	};
+	41DCE4F81177C6CA00A4013A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41DCE4EF1177C6AD00A4013A /* HeroListViewController.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	41DCE4F91177C6CA00A4013A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 41DCE4EF1177C6AD00A4013A /* HeroListViewController.h */;
+		name = "HeroListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 0;
+	};
+}
